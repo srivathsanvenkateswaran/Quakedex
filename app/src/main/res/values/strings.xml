@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Quakedex</string>
+    <string name="empty_state_text">No Earthquakes found at this moment!!</string>
+    <string name="no_internet_text">No Internet Connection</string>
+</resources>
